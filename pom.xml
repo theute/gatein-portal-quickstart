@@ -61,6 +61,7 @@
         <module>simplest-hello-world-portlet</module>
         <module>jsf2-hello-world-portlet</module>
         <module>jsf2-rf4-hello-world-portlet</module>
+        <module>simple-extension</module>
     </modules>
 
     <profiles>
